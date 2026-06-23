@@ -86,7 +86,6 @@ to improve intrusion detection performance while reducing data dimensionality.
 ```text
 ├── GA_CNN_LSTM_Attention_UNSW_NB15.ipynb
 ├── README.md
-└── docs/
 ```
 
 ---
